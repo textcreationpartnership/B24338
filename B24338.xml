@@ -1,0 +1,1824 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The contents of the history of the five book's [sic] of Moses namely, Genesis. Exodus. Leviticus. Numbers. Deuteronomie. Collected and gathered in so many verses as there is chapters in each book very necessary and profitable for education of youth, &amp; acquainting them so far with the Scripture. To which is added a considering-glass or contemplation, or spirituall poem upon the consideration thereof. By Roger Hough.</title>
+            <author>Hough, Roger.</author>
+         </titleStmt>
+         <extent>Approx. 49KB of XML-encoded text transcribed from 26 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B24338</idno><idno type="EEBO-CITATION">99827268</idno>
+  <idno type="VID">207513</idno>
+  <idno type="EEBO-PROQUEST">2240885706</idno>
+  
+            <idno type="STC">Wing H2912</idno>
+            <idno type="PROQUEST">99827268</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99827268e"/>
+            <note>(EEBO-TCP ; phase 2, no. B24338)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 207513)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1890:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The contents of the history of the five book's [sic] of Moses namely, Genesis. Exodus. Leviticus. Numbers. Deuteronomie. Collected and gathered in so many verses as there is chapters in each book very necessary and profitable for education of youth, &amp; acquainting them so far with the Scripture. To which is added a considering-glass or contemplation, or spirituall poem upon the consideration thereof. By Roger Hough.</title>
+                  <author>Hough, Roger.</author>
+               </titleStmt>
+               <extent>[4], 43, [1] p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>printed for T. Passenger, at the three Bibles on London-bridge,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1670.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The words "Genesis. .. Deuteronomie." are bracketed together on title page.</note>
+                  <note>Advertisement on verso of final leaf.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="uniform_title">Bible. --  O.T. --  Genesis --  Commentaries --  Early works to 1800.</term>
+               <term type="uniform_title">Bible. --  O.T. --  Exodus --  Commentaries --  Early works to 1800.</term>
+               <term type="uniform_title">Bible. --  O.T. --  Leviticus --  Commentaries --  Early works to 1800.</term>
+               <term type="uniform_title">Bible. --  O.T. --  Numbers --  Commentaries --  Early works to 1800.</term>
+               <term type="uniform_title">Bible. --  O.T. --  Deuteronomy --  Commentaries --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Olivia Bottum </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:207513:1"/>
+            <p>THE CONTENTS Of the History of the Five Book's of MOSES; Namely,
+<list>
+                  <item>GENESIS.</item>
+                  <item>EXODUS.</item>
+                  <item>LEVITICUS.</item>
+                  <item>NUMBERS.</item>
+                  <item>DEUTERONOMIE.</item>
+               </list>
+            </p>
+            <p>Collected and gathered in so many Verses as there is Chapters in each Book very necessary and profitable for Education of youth, &amp; acquain<g ref="char:EOLhyphen"/>ting them so far with the Scripture.</p>
+            <p>To which is added a Considering-glass o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Con<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>emplation, or Spirituall Poem upon rhe Consideration thereo<seg rend="sup">•</seg>.</p>
+            <p>
+               <hi>By ROGER HOƲGH.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>Proverbs 22.6.</hi>
+               </bibl> Train up a child in the way he shall go: and when he is old, he will not depart from it.</q>
+            <p>
+               <hi>London,</hi> Printed for <hi>T. Passenger,</hi> at the <hi>three Bibles</hi> on <hi>London-bridge.</hi> 1670.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:207513:2"/>
+            <pb facs="tcp:207513:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:207513:3"/>
+            <head>To the Reader, an Acrostical Epistle upon the name of the Author.</head>
+            <lg>
+               <l>Reader I here present unto thy looks</l>
+               <l>Only the History of <hi>Moses:</hi> Book's</l>
+               <l>Given out in shadows as he saw,</l>
+               <l>Even by the Ceremonial, the Morall Law:</l>
+               <l>Record that Law, that's Moral in thy heart,</l>
+            </lg>
+            <lg>
+               <l>Have thou a care from it not to depart.</l>
+               <l>Only consider this my Aim and mind,</l>
+               <l>Unto each Verse a Chapter thou mayst find.</l>
+               <l>Gain thou by this my labour, what thou may,</l>
+               <l>However for thy profit I will pray.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Regard the glass wherewith my labour ends;</hi>
+               </l>
+               <l>
+                  <hi>Here I present it to my Christian friends.</hi>
+               </l>
+            </lg>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:207513:3"/>
+            <head>To all my dear Related and Christian Friends, to whose hands this small Labour of mine shall come. Grace, mercy and peace to you be multiplied.</head>
+            <opener>
+               <salute>DEAR FRIENDS,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">U</seg>Pon the serious consideration of that which the Lord spoke to us by <hi>Moses;</hi> touching our obedience to the Morall Law: How exact we should be to keep it in our hearts; and to teach it to our Children: Recorded for our learning in <hi>Deuteronomie Chap. 6. vers. 6, 7, 8, 9.</hi> And also our duty to command our Children to observe and do all the words of the Law <hi>Deut. 32.46.</hi> I here present you with a short narrative of the Contents of the History of the five Books of <hi>Moses,</hi> although in a plain and simple dresse; yet my de<g ref="char:EOLhyphen"/>sign is that it may be usefull to all sorts of People, especially to young persons, that desire in obedience to set their faces towards <hi>Sion.</hi>
+            </p>
+            <p>And although there is but a touch upon the Contents of the said Books, composed in so many verses as there is Chapters in each Book: yet
+<pb facs="tcp:207513:4"/> upon the serious view of the Number of the verse thou readest, thou mayest turn thyself to the Scripture for thy satisfaction, and near or about that Chapter answerable to that verse in Num<g ref="char:EOLhyphen"/>ber, thou mayest be hold the whole matter. If this poor Mite of myne, cast into the rich Treasury of this Kingdome, shall find acceptance of my Christian Friends, I shall accompt it as a rich honour from the God of all mercies, that hath so far inabled me in the work. And shall follow this my poor labour, with my heartly prayers for the whole <hi>Israell</hi> of God, while I remain in this body.</p>
+            <closer>
+               <signed>Thyne in Christian obedience, ROGER HOUGH.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div n="1" type="book">
+            <pb n="1" facs="tcp:207513:4"/>
+            <head>THE CONTENTS OF THE History of the First Book of MOSES; called GENESIS.</head>
+            <lg n="1">
+               <head>1</head>
+               <l>THe goodnesse of our gracious Lord</l>
+               <l>to us is very great:</l>
+               <l>What cause have we, now being fre<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>his goodnesse to repeat.</l>
+            </lg>
+            <lg n="2">
+               <head>2</head>
+               <l>First after his Image he man made,</l>
+               <l>in state holy and good,</l>
+               <l>And at his choice in Paradice,</l>
+               <l>he set man to have stood.</l>
+            </lg>
+            <lg n="3">
+               <pb n="2" facs="tcp:207513:5"/>
+               <head>3</head>
+               <l>But Man from that did soon back slide;</l>
+               <l>the <hi>Serpent</hi> did beguile,</l>
+               <l>And did deceive our Mother <hi>Eve,</hi>
+               </l>
+               <l>and <hi>Adam</hi> by a wy'le.<figure/>
+               </l>
+            </lg>
+            <lg n="4">
+               <head>4</head>
+               <l>Yea in that state when man was fal'n,</l>
+               <l>Gods goodness then was shown;</l>
+               <l>He promised the <hi>Serpents</hi> head</l>
+               <l>should quite be overthrown.</l>
+            </lg>
+            <lg n="5">
+               <head>5</head>
+               <l>And as by <hi>Adam</hi> all men fell,</l>
+               <l>by <hi>Christ</hi> are all redeemed</l>
+               <l>That do believe, God doth forgive,</l>
+               <l>them are his best esteemed.</l>
+            </lg>
+            <lg n="6">
+               <pb n="3" facs="tcp:207513:5"/>
+               <head>6</head>
+               <l>Yea when the old Worlds wickedness</l>
+               <l>to mind our God did call;</l>
+               <l>His goodness so, was shew'd to <hi>Noah,</hi>
+               </l>
+               <l>his must not with it fall.</l>
+            </lg>
+            <lg n="7">
+               <head>7</head>
+               <l>But for his safeguard God did warn</l>
+               <l>him to provide an Ark<figure/>
+               </l>
+               <l>Of Gopher wood, against the flood,</l>
+               <l>wiyl'st wicked were in dark.</l>
+            </lg>
+            <lg n="8">
+               <pb n="4" facs="tcp:207513:6"/>
+               <head>8</head>
+               <l>God<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> merci<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s great and goodnesse to</l>
+               <l>his Servants we may show:</l>
+               <l>And a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>so tell, how <hi>Israel</hi>
+               </l>
+               <l>did all his goodness know.</l>
+            </lg>
+            <lg n="9">
+               <head>9</head>
+               <l>With <hi>Abraham</hi> he a Covenant made,</l>
+               <l>and did renew the same:</l>
+               <l>That he should be, blessed and see</l>
+               <l>his seed encrease in fame.</l>
+            </lg>
+            <lg n="10">
+               <head>10</head>
+               <l>Yea when <hi>Gomorah</hi> and <hi>Sodome,</hi>
+               </l>
+               <l>he sent for to destroy;</l>
+               <l>He fetcht out <hi>Lot,</hi> and there would not</l>
+               <l>one of his Saints annoy.</l>
+            </lg>
+            <lg n="11">
+               <head>11</head>
+               <l>He sent his Angels to forworn,</l>
+               <l>and did to <hi>Abra'm</hi> tell</l>
+               <l>What he would do, to overthrow</l>
+               <l>all those that did Rebell.</l>
+            </lg>
+            <lg n="12">
+               <head>12</head>
+               <l>Yet for all this his anger great▪</l>
+               <l>at his Servants Request,</l>
+               <l>Even for ten, Righteous men</l>
+               <l>he would have sav'd the rest.</l>
+            </lg>
+            <lg n="13">
+               <head>13</head>
+               <l>But yet he ma<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> a way for <hi>Lot</hi>
+               </l>
+               <l>forth of <hi>Sodome</hi> to go;</l>
+               <l>When with brimstone, and fire alone</l>
+               <l>he did it overthrow.</l>
+            </lg>
+            <lg n="14">
+               <pb n="5" facs="tcp:207513:6"/>
+               <head>14</head>
+               <l>And then his promise to <hi>Abra'm</hi>
+               </l>
+               <l>he did in time fullfill,</l>
+               <l>And did alone, give him a Son</l>
+               <l>according to his will.</l>
+            </lg>
+            <lg n="16">
+               <head>16</head>
+               <l>And after that unto <hi>Isaak</hi>
+               </l>
+               <l>his mercies they were great.</l>
+               <l>He did indeed give holy seed</l>
+               <l>in <hi>Jacob</hi> most compleat.</l>
+            </lg>
+            <lg n="16">
+               <head>16</head>
+               <l>In <hi>Jacob</hi> was Gods love bestow'd;</l>
+               <l>the blessings he obtain'd</l>
+               <l>Of <hi>Isaak</hi> sure, for to endure:</l>
+               <l>by God it was ordain'd.</l>
+            </lg>
+            <lg n="16">
+               <head>16</head>
+               <l>To <hi>Padanaram</hi> as he went,</l>
+               <l>God did a vision send;</l>
+               <l>Which did him tell, even at <hi>Bethel,</hi>
+               </l>
+               <l>he would be <hi>Jacobs</hi> friend.</l>
+            </lg>
+            <lg n="18">
+               <head>18</head>
+               <l>Even at the Well of <hi>Haron</hi> then</l>
+               <l>he did with <hi>Rachel</hi> meet,</l>
+               <l>Whom to obtain, a Servants pain</l>
+               <l>he takes at <hi>Labans</hi> feet.</l>
+            </lg>
+            <lg n="19">
+               <head>19</head>
+               <l>Twice seven years he service did,</l>
+               <l>for which he had two Wives:</l>
+               <l>Who for their Aids, gave their hand-maids,</l>
+               <l>that he in Children thrives.</l>
+            </lg>
+            <lg n="20">
+               <pb n="6" facs="tcp:207513:7"/>
+               <head>20</head>
+               <l>Then to encrease his Wordly wealth,</l>
+               <l>a portion <hi>Laban</hi> gave</l>
+               <l>Out of his flock, the spotted flock,</l>
+               <l>and brown must <hi>Jacob</hi> have.</l>
+            </lg>
+            <lg n="21">
+               <head>21</head>
+               <l>Then <hi>Jacob</hi> with green poplor rods;</l>
+               <l>Chesnut and Hazel wands</l>
+               <l>Contrives a plot, the best to spot,</l>
+               <l>of flocks within his hands.</l>
+            </lg>
+            <lg n="22">
+               <head>22</head>
+               <l>When he had served twenty years,</l>
+               <l>from <hi>Laban</hi>'s flock he went:</l>
+               <l>Ev'n straight away, as truth doth say,</l>
+               <l>without <hi>Labans</hi> consent.<figure/>
+               </l>
+            </lg>
+            <lg n="23">
+               <pb n="7" facs="tcp:207513:7"/>
+               <head>23</head>
+               <l>He took his Wives, and Children all</l>
+               <l>which were a goodly train,</l>
+               <l>Ev'n all his stock, and spotted flock,</l>
+               <l>that he had got with pain.</l>
+            </lg>
+            <lg n="24">
+               <head>24</head>
+               <l>Though <hi>Laban</hi> after him pursues;</l>
+               <l>God doth make him, to grant</l>
+               <l>From wrath to cease, and joyn in peace</l>
+               <l>with him in Covenant.</l>
+            </lg>
+            <lg n="25">
+               <head>25</head>
+               <l>And when he was from <hi>Laban</hi> gone,</l>
+               <l>a Vision did him meete;</l>
+               <l>
+                  <hi>Mahanaim,</hi> appear'd to him,</l>
+               <l>Gods Hosts did there him greete.</l>
+            </lg>
+            <lg n="26">
+               <head>26</head>
+               <l>
+                  <hi>Jacob</hi> in fear of <hi>Esau</hi> is,</l>
+               <l>yet minding, God by prayer:</l>
+               <l>For to prevent, he did present</l>
+               <l>
+                  <hi>Esau,</hi> God did him hear.</l>
+            </lg>
+            <lg n="27">
+               <head>27</head>
+               <l>He restled with an <hi>Angell</hi> then,</l>
+               <l>at a Place call'd <hi>Peniel;</hi>
+               </l>
+               <l>Who for his fame, did change his name,</l>
+               <l>and call'd him <hi>Israel.</hi>
+               </l>
+            </lg>
+            <lg n="28">
+               <head>28</head>
+               <l>For <hi>Shechem,</hi> then he did return,</l>
+               <l>he must to <hi>Bethell</hi> go,</l>
+               <l>In <hi>Canaans</hi> Land, at Gods command,</l>
+               <l>it was appointed so.</l>
+            </lg>
+            <lg n="29">
+               <pb n="8" facs="tcp:207513:8"/>
+               <head>29</head>
+               <l>At <hi>Bethell</hi> he an Alter rear's,</l>
+               <l>and there doth purge his house,</l>
+               <l>His garments change, from Gods most strange,</l>
+               <l>And Gods Idolatrousse.</l>
+            </lg>
+            <lg n="30">
+               <head>30</head>
+               <l>Then God at <hi>Bethell</hi> did him bless,</l>
+               <l>his Covenant he did tell:</l>
+               <l>
+                  <hi>Jacobs</hi> Kingdome, for time to come,</l>
+               <l>should be call'd <hi>Israell.</hi>
+               </l>
+            </lg>
+            <lg n="31">
+               <head>31</head>
+               <l>Then <hi>Jacobs</hi> wife even <hi>Rachell</hi>
+               </l>
+               <l>did there in travel dye</l>
+               <l>Of <hi>Benjamin,</hi> neer <hi>Bethelem,</hi>
+               </l>
+               <l>her body there doth lye.</l>
+            </lg>
+            <lg n="32">
+               <head>32</head>
+               <l>Twelve Tribes then came of <hi>Jacobs</hi> loynes,</l>
+               <l>then he to <hi>Isaak</hi> came,</l>
+               <l>Whose age appears, just ninescore years,</l>
+               <l>and so he dyes in fame.</l>
+            </lg>
+            <lg n="33">
+               <head>33</head>
+               <l>Then <hi>Israell</hi> in <hi>Canaans</hi> Land</l>
+               <l>was <hi>Joseph</hi> gone to grow;</l>
+               <l>He oft then dream'd, how God esteem'd,</l>
+               <l>and would him friend also.</l>
+            </lg>
+            <lg n="34">
+               <head>34</head>
+               <l>His Brethren being angry at</l>
+               <l>his dreaming, they him sell,</l>
+               <l>Where he must be, <hi>Egypt</hi> too see,</l>
+               <l>with <hi>Potiphar</hi> to dwell.</l>
+            </lg>
+            <lg n="35">
+               <pb n="9" facs="tcp:207513:8"/>
+               <head>35</head>
+               <l>Then <hi>Joseph</hi> in <hi>Potiphars</hi> house</l>
+               <l>was highly there esteem'd,</l>
+               <l>Till his Mistriss, her legeries</l>
+               <l>makes him to be misdeem'd.</l>
+            </lg>
+            <lg n="36">
+               <head>36</head>
+               <l>Then suddenly he is accus'd,</l>
+               <l>and into the Prison cast;</l>
+               <l>But there our God, with him abode,</l>
+               <l>Untill he was releast.</l>
+            </lg>
+            <lg n="37">
+               <head>37</head>
+               <l>Then <hi>Pharaoh</hi> dream'd, and 's troubled sore,</l>
+               <l>
+                  <hi>Joseph</hi> doth it interpret,</l>
+               <l>What shall befall, by his dreame's all,</l>
+               <l>and free from Prisons set.</l>
+            </lg>
+            <lg n="38">
+               <head>38</head>
+               <l>
+                  <hi>Joseph</hi> now having favour found</l>
+               <l>in <hi>Pharaohs</hi> acceptation:</l>
+               <l>How now doth stand, and hath command</l>
+               <l>of <hi>Egypts</hi> preservation.</l>
+            </lg>
+            <lg n="39">
+               <head>39</head>
+               <l>God had ordained this to be</l>
+               <l>for <hi>Israell</hi> his Election:</l>
+               <l>In Famine sore, there they had store,</l>
+               <l>through <hi>Pharaohs</hi> safe Protection.</l>
+            </lg>
+            <lg n="40">
+               <head>40</head>
+               <l>
+                  <hi>Egypt</hi> hath store, now <hi>Canaan</hi>'s Land</l>
+               <l>stands in want of relief:</l>
+               <l>Old <hi>Israell</hi> sends, his Sons as friends,</l>
+               <l>To buy Corn of <hi>Joseph.</hi>
+               </l>
+            </lg>
+            <lg n="41">
+               <pb n="10" facs="tcp:207513:9"/>
+               <head>41</head>
+               <l>
+                  <hi>Joseph's</hi> unknown to his Brethren,</l>
+               <l>yet doth them question sore,</l>
+               <l>And in that wise, takes them as spyes,</l>
+               <l>and Prisons them therefore.</l>
+            </lg>
+            <lg n="42">
+               <head>42</head>
+               <l>And after three dayes Prisonment</l>
+               <l>he lets all losse but one:</l>
+               <l>His thoughts herein for <hi>Benjamin.</hi>
+               </l>
+               <l>he doth keep <hi>Simeon.</hi>
+               </l>
+            </lg>
+            <lg n="43">
+               <head>43</head>
+               <l>Then <hi>Israells</hi> grief was very sore</l>
+               <l>to part with <hi>Benjamin,</hi>
+               </l>
+               <l>Cause <hi>Josephs</hi> gone, he doth moan,</l>
+               <l>his sorrows doth begin.</l>
+            </lg>
+            <lg n="44">
+               <head>44</head>
+               <l>Then down to <hi>Egypt</hi> they return,</l>
+               <l>
+                  <hi>Joseph</hi> doth them receive;</l>
+               <l>When he them spyes, his watery eyes,</l>
+               <l>Made then a secret streame.</l>
+            </lg>
+            <lg n="45">
+               <head>45</head>
+               <l>
+                  <hi>Joseph</hi> then lets them understand</l>
+               <l>that he is their own Brother,</l>
+               <l>Which they did sell, to <hi>Ishmaell,</hi>
+               </l>
+               <l>now they all stand together.</l>
+            </lg>
+            <lg n="46">
+               <head>46</head>
+               <l>Now having made him known to them,</l>
+               <l>he for his Father sends;</l>
+               <l>That he may tell, old <hi>Israell,</hi>
+               </l>
+               <l>Gods goodness he intends.</l>
+            </lg>
+            <lg n="47">
+               <pb n="11" facs="tcp:207513:9"/>
+               <head>47</head>
+               <l>Then down to <hi>Egypt Israel</hi> goes,</l>
+               <l>and takes all his seed then:</l>
+               <l>Whose Persons were, numbered there</l>
+               <l>even threescore and ten.</l>
+            </lg>
+            <lg n="41">
+               <head>41</head>
+               <l>
+                  <hi>Jacob</hi> in <hi>Egypts</hi> aged sore,</l>
+               <l>he blessed <hi>Josephs</hi> Sons,</l>
+               <l>His years therefore seven and seven score,</l>
+               <l>his Sons bury his bones.<figure/>
+               </l>
+            </lg>
+            <lg n="49">
+               <head>49</head>
+               <l>When he his Children all had blest,</l>
+               <l>he yielded to the grave:</l>
+               <l>And did command, in <hi>Canaan</hi>'s Land</l>
+               <l>his Funerall they should have.</l>
+            </lg>
+            <lg n="50">
+               <pb n="12" facs="tcp:207513:10"/>
+               <head>50</head>
+               <l>
+                  <hi>Joseph</hi> his Children's Children sees</l>
+               <l>to his great joyes encrease:</l>
+               <l>His age was then, five score and ten,</l>
+               <l>and so he dies in peace.</l>
+            </lg>
+         </div>
+         <div n="2" type="book">
+            <head>THE CONTENTS Of the History of the Second Book of MOSES: Called EXODUS.</head>
+            <lg n="1">
+               <head>1</head>
+               <l>NOw after that <hi>Joseph</hi> is dead,</l>
+               <l>
+                  <hi>Israels</hi> Seed multiplies more:</l>
+               <l>Though sorely they are punished,</l>
+               <l>and have afflictions dayly store.</l>
+            </lg>
+            <lg n="2">
+               <head>2</head>
+               <l>For then another <hi>Pharaohs</hi> King,</l>
+               <l>that never did good <hi>Joseph</hi> know:</l>
+               <l>Which unto ruin would them bring,</l>
+               <l>for to be <hi>Israels</hi> overthrow.</l>
+            </lg>
+            <lg n="3">
+               <pb n="13" facs="tcp:207513:10"/>
+               <head>3</head>
+               <l>Now <hi>Pharaoh</hi> makes a sore decree,</l>
+               <l>all <hi>Israells</hi> seed to shiver,</l>
+               <l>That all their Males should drowned be</l>
+               <l>in an <hi>Egyptian</hi> River.</l>
+            </lg>
+            <lg n="4">
+               <head>4</head>
+               <l>
+                  <hi>Moses</hi> is born free from slaughter,</l>
+               <l>hid in an Ark of Rushes;</l>
+               <l>And being found by <hi>Pharaohs</hi> Daughter,</l>
+               <l>she of her own cost nurses.<figure/>
+               </l>
+            </lg>
+            <lg n="5">
+               <head>5</head>
+               <l>Then <hi>Moses</hi> grew in strength of years,</l>
+               <l>and is esteemed then as one;</l>
+               <l>When as his groath to man appears,</l>
+               <l>he's called <hi>Pharaohs</hi> Daughters Son.</l>
+            </lg>
+            <lg n="6">
+               <pb n="14" facs="tcp:207513:11"/>
+               <head>6</head>
+               <l>Then as <hi>Moses</hi> kept <hi>Jethro</hi>'s Flock,</l>
+               <l>the Lord did to him then appear;</l>
+               <l>Saying I am God of <hi>Israels</hi> stock,</l>
+               <l>draw near <hi>Moses</hi> and do not fear.</l>
+            </lg>
+            <lg n="7">
+               <head>7</head>
+               <l>The bush did burn but not consume,</l>
+               <l>God there did tell <hi>Moses</hi> his name:</l>
+               <l>He must not start at <hi>Pharaohs</hi> fume,</l>
+               <l>I AM had sent, him tell the same.</l>
+            </lg>
+            <lg n="8">
+               <head>8</head>
+               <l>Then <hi>Moses</hi> Rod a Serpent is,</l>
+               <l>great signes and wonders God did show:</l>
+               <l>His Judgments came and did not misse,</l>
+               <l>he stroak them with his threatning blow.</l>
+            </lg>
+            <lg n="9">
+               <head>9</head>
+               <l>He turns there Rivers into blood,</l>
+               <l>and sends them Frog's in number store;</l>
+               <l>
+                  <hi>Egypt</hi> their sorrows like a flood.</l>
+               <l>with Lice and Flies are vexed sore.</l>
+            </lg>
+            <lg n="10">
+               <head>10</head>
+               <l>With Murrain, Boils, and eke with blains,</l>
+               <l>be <hi>Egypts</hi> Kingdome sore afflicts,</l>
+               <l>And with Hail-stones her beauty staines,</l>
+               <l>Yet <hi>Pharaoh</hi> at these Judgments kicks.</l>
+            </lg>
+            <lg n="11">
+               <head>11</head>
+               <l>The Locusts comes with an Eeast-wind,</l>
+               <l>Devouring all their Mineralls,</l>
+               <l>And after that thick darknesse blind,</l>
+               <l>And then by death their First-born falls.</l>
+            </lg>
+            <lg n="12">
+               <pb n="15" facs="tcp:207513:11"/>
+               <head>12</head>
+               <l>Now <hi>Israels</hi> Seeds, the <hi>Egyptian</hi> spoils,</l>
+               <l>Before they did eat the Passover;</l>
+               <l>Their costly Jewels which their toiles,</l>
+               <l>Had gotten, they have altogether.</l>
+            </lg>
+            <lg n="13">
+               <head>13</head>
+               <l>Now <hi>Israel</hi> out of <hi>Egypt</hi> goes</l>
+               <l>At time appointed, though in fears;</l>
+               <l>For they had surjourn'd with their foes</l>
+               <l>Just four hundred and thirty years.</l>
+            </lg>
+            <lg n="14">
+               <head>14</head>
+               <l>Now <hi>Josephs</hi> Bones away they take,</l>
+               <l>God guids them both by Clouds and fire:</l>
+               <l>Their journey to the Sea they make,</l>
+               <l>
+                  <hi>Pharaoh</hi> against them doth conspire.<figure/>
+               </l>
+            </lg>
+            <lg n="15">
+               <pb n="16" facs="tcp:207513:12"/>
+               <head>15</head>
+               <l>
+                  <hi>Pharaoh</hi> pursues them to'th Red Sea.</l>
+               <l>God hear's the Prayer of Moses sound:</l>
+               <l>With Rod he smites, the Seas obey,</l>
+               <l>The <hi>Egyptians</hi> follow and are drown'd.</l>
+            </lg>
+            <lg n="16">
+               <head>16</head>
+               <l>Then through the Wilderness they pass,</l>
+               <l>From <hi>Shur</hi> to <hi>Marah</hi> as we see:</l>
+               <l>Whereas the water bitter was,</l>
+               <l>Heal'd by throwing in of a Tree.</l>
+            </lg>
+            <lg n="17">
+               <head>17</head>
+               <l>But then at <hi>Elim</hi> they encamp,</l>
+               <l>And had there water plenty and store;</l>
+               <l>Twelve Wells most sweet without a damp,</l>
+               <l>And Palm-trees there ten and threescore.</l>
+            </lg>
+            <lg n="18">
+               <head>18</head>
+               <l>Then God sends quailes by an East-wind,</l>
+               <l>And <hi>Manna</hi> rains from Heaven store,</l>
+               <l>The <hi>Israelits</hi> there do it find</l>
+               <l>Upon the ground, round, small and hoare.</l>
+            </lg>
+            <lg n="19">
+               <head>19</head>
+               <l>From <hi>Sin</hi> to <hi>Riphidim</hi> they go,</l>
+               <l>The Rock in <hi>Horeb Moses</hi> smites,</l>
+               <l>Fresh waters out from thence do flow.</l>
+               <l>
+                  <hi>Israel</hi> against <hi>Ameleck</hi> fights.</l>
+            </lg>
+            <lg n="20">
+               <head>20</head>
+               <l>
+                  <hi>Jehovah Nissi Moses</hi> rears,</l>
+               <l>The hand or the Trown of the Lord.</l>
+               <l>Of <hi>Moses</hi> same old <hi>Jethro</hi> hears;</l>
+               <l>His Councell to him hee'l record.</l>
+            </lg>
+            <lg n="21">
+               <pb n="17" facs="tcp:207513:12"/>
+               <head>21</head>
+               <l>Then one Mont <hi>Sinai</hi> God appear'd,</l>
+               <l>His Message sent by <hi>Moses</hi> there;</l>
+               <l>The People to hear are prepar'd,</l>
+               <l>Yet God's presents doth make them fear.</l>
+            </lg>
+            <lg n="22">
+               <head>22</head>
+               <l>Then in the Mount this Law he gave,</l>
+               <l>As he is <hi>Israels</hi> Heritage:</l>
+               <l>Saying no Gods but me thou'st have,</l>
+               <l>Worship thou no graven Image.</l>
+            </lg>
+            <lg n="23">
+               <head>23</head>
+               <l>In vain take not Gods holy Name,</l>
+               <l>Keep holy thou the Sabbath day,</l>
+               <l>Give honour to thy Parents fame,</l>
+               <l>In murthering Acts go not astray.</l>
+            </lg>
+            <lg n="24">
+               <head>24</head>
+               <l>Be not thou an Adulterer,</l>
+               <l>Nor do thou steal what others get,</l>
+               <l>False be not to thy near Neighbour,</l>
+               <l>Nor's House, nor's Wife do thou covet.</l>
+            </lg>
+            <lg n="25">
+               <head>25</head>
+               <l>Then severall Laws God <hi>Moses</hi> tells,</l>
+               <l>For Men and Maids that Servants be;</l>
+               <l>Against such persons as man steals,</l>
+               <l>Such as curse Parents secretly.</l>
+            </lg>
+            <lg n="26">
+               <head>26</head>
+               <l>All such as fight, or are hurt by chance,</l>
+               <l>All Gores, occasions of much harm,</l>
+               <l>All thefts, damage, and negligence:</l>
+               <l>Here's severall Laws these for to charm.</l>
+            </lg>
+            <lg n="27">
+               <pb n="18" facs="tcp:207513:13"/>
+               <head>27</head>
+               <l>Then <hi>Moses</hi> to the Mountain goes,</l>
+               <l>Whereas Gods glory doth appear;</l>
+               <l>And in the Mount he tarry does,</l>
+               <l>Fourty nights and fourty dayes there.</l>
+            </lg>
+            <lg n="28">
+               <head>28</head>
+               <l>A Tabernacle must be made,</l>
+               <l>The form of the Ark is shew'd him there,</l>
+               <l>A mercy seat there must be laid,</l>
+               <l>In gold two Cherubims appear.</l>
+            </lg>
+            <lg n="29">
+               <head>29</head>
+               <l>Then severall Laws and Commandements,</l>
+               <l>About the furniture we see,</l>
+               <l>With Curtains, Coverings and garments,</l>
+               <l>That for the Priests appoint<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d be.</l>
+            </lg>
+            <lg n="30">
+               <head>30</head>
+               <l>Then <hi>Aron</hi> and his Son's are made,</l>
+               <l>And Consecrated Priests most high;</l>
+               <l>And holy garments as its said,</l>
+               <l>Appoint<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d for them are truly.</l>
+            </lg>
+            <lg n="31">
+               <head>31</head>
+               <l>There Sacrifice and Burnt off<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ring<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</l>
+               <l>God doth appoint them for to use;</l>
+               <l>And Altars rear, with other things</l>
+               <l>In Worship th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y must not ref<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>se.</l>
+            </lg>
+            <lg n="32">
+               <head>32</head>
+               <l>Their holy Oyl, and swe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t persums</l>
+               <l>Was made of Spices sweet alone,</l>
+               <l>Which they in Worship did consume,</l>
+               <l>It was with Composition,</l>
+            </lg>
+            <lg n="33">
+               <pb n="19" facs="tcp:207513:13"/>
+               <head>33</head>
+               <l>
+                  <hi>Bazaleel</hi> and a <hi>Holiab</hi> are</l>
+               <l>Appointed then for Workmanship:</l>
+               <l>The Sabboth day God doth declare,</l>
+               <l>His Worship in it must not slip.</l>
+            </lg>
+            <lg n="34">
+               <head>34</head>
+               <l>When <hi>Moses</hi> in Mount <hi>Sinai</hi> is,</l>
+               <l>The People worship a <hi>Calf</hi> alone,</l>
+               <l>Which they had made; <hi>Moses</hi> sees this</l>
+               <l>The two Tables he breaks of stone.</l>
+            </lg>
+            <lg n="35">
+               <head>35</head>
+               <l>The two Tables are then renew'd,</l>
+               <l>And God his Attributes doth show;</l>
+               <l>The Commandements are review'd,</l>
+               <l>And <hi>Israel</hi> must Gods Covenant know.</l>
+            </lg>
+            <lg n="36">
+               <head>36</head>
+               <l>Then severall works are set about,</l>
+               <l>As the Curtaines of Cherubins,</l>
+               <l>Goats hair Borders, sockets, without doubt</l>
+               <l>They had store of Rams and Baggers skins.</l>
+            </lg>
+            <lg n="37">
+               <head>37</head>
+               <l>The Ark of God, the Mercy seat,</l>
+               <l>The Table with their Vessels fine,</l>
+               <l>Their Candle-sticks with Lamps compleat,</l>
+               <l>Orders incense, worship Divine.</l>
+            </lg>
+            <lg n="38">
+               <head>38</head>
+               <l>Then holy garments for the Priests,</l>
+               <l>The Ephod Robe, breast plate and Coates,</l>
+               <l>Ephods and Miters wrought in Criests,</l>
+               <l>The holy Crown then there promotes.</l>
+            </lg>
+            <lg n="39">
+               <pb n="20" facs="tcp:207513:14"/>
+               <head>39</head>
+               <l>
+                  <hi>Moses</hi> doth all things well perform,</l>
+               <l>According to a just accompt,</l>
+               <l>And fears not any other storm;</l>
+               <l>Hee'l follow God's command i'th Mount</l>
+            </lg>
+            <lg n="40">
+               <head>40</head>
+               <l>Now God the Tabernacle fil'd</l>
+               <l>With glory which did there appear,</l>
+               <l>And oft to stay they were compell'd,</l>
+               <l>Untill that Cloud removed there.</l>
+            </lg>
+         </div>
+         <div n="3" type="book">
+            <pb n="21" facs="tcp:207513:14"/>
+            <head>THE CONTENTS Of the History of the third Book of MOSES: Called LEVITICUS.</head>
+            <lg n="1">
+               <head>1</head>
+               <l>NOw in the barren Wildernesse</l>
+               <l>the Lord gives out his Law,</l>
+               <l>In Types and Shadows, that we may</l>
+               <l>his gracious goodness awe.</l>
+            </lg>
+            <lg n="2">
+               <head>2</head>
+               <l>Burnt-offerings of severall things,</l>
+               <l>and Meat-offerings also;</l>
+               <l>Of the heard and of Flocks and Fowles,</l>
+               <l>in worship they bestow.</l>
+            </lg>
+            <lg n="3">
+               <head>3</head>
+               <l>With Oyl, and Flower, and with incense,</l>
+               <l>baked in severalll wayes;</l>
+               <l>I'th Meat-offrings Beasts, Lambs, and Goats,</l>
+               <l>was usuall in those dayes.</l>
+            </lg>
+            <lg n="4">
+               <pb n="22" facs="tcp:207513:15"/>
+               <head>4</head>
+               <l>Sins that were sins of Ignorance,</l>
+               <l>when they came to be known,</l>
+               <l>An offering for them must be made,</l>
+               <l>the Priests must them at one.</l>
+            </lg>
+            <lg n="5">
+               <head>5</head>
+               <l>He that his knowledge doth conceal</l>
+               <l>in touching things unclean,</l>
+               <l>Or doth pronounce rash Oaths in vain,</l>
+               <l>his sin he shall sustain.</l>
+            </lg>
+            <lg n="6">
+               <head>6</head>
+               <l>Known sin that any man hath done</l>
+               <l>by a deceitfull heart;</l>
+               <l>He must pay the whole principal,</l>
+               <l>and add too a fifth part.</l>
+            </lg>
+            <lg n="7">
+               <head>7</head>
+               <l>Both trespass and Peace-offerings</l>
+               <l>of Thanks-giving and vow;</l>
+               <l>Or of free will is shewed here,</l>
+               <l>what God did Priests alow.</l>
+            </lg>
+            <lg n="8">
+               <head>8</head>
+               <l>Then <hi>Aaron</hi> and his Sons are made,</l>
+               <l>and Consecrated Priests</l>
+               <l>By <hi>Moses</hi> hand, have put one</l>
+               <l>the fine garments and Creists.</l>
+            </lg>
+            <lg n="9">
+               <head>9</head>
+               <l>Then <hi>Aarons</hi> offering here is shew'd,</l>
+               <l>for himself and the rest;</l>
+               <l>And afterwards the People are</l>
+               <l>by <hi>Moses</hi> and him blest.</l>
+               <pb n="23" facs="tcp:207513:15"/>
+               <l>
+                  <figure/>
+               </l>
+            </lg>
+            <lg n="10">
+               <head>10</head>
+               <l>
+                  <hi>Nadab</hi> and <hi>Abihu</hi> conspire,</l>
+               <l>and were consumed th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>reby:</l>
+               <l>Wine and strong drink Priest<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> must refuse</l>
+               <l>in Gods Worship truly.</l>
+            </lg>
+            <lg n="11">
+               <head>11</head>
+               <l>What was, and was n<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t for Meat,</l>
+               <l>by that Law stablished.</l>
+               <l>Of Fish, and Fowls, and creeping things</l>
+               <l>is known and revealed.</l>
+            </lg>
+            <lg n="12">
+               <pb n="24" facs="tcp:207513:16"/>
+               <head>12</head>
+               <l>Also for Women there's a Law</l>
+               <l>made for their cleansing, and</l>
+               <l>Purification from Child-birth,</l>
+               <l>by our good Gods command.</l>
+            </lg>
+            <lg n="13">
+               <head>13</head>
+               <l>The Priests are guided by this Law</l>
+               <l>Leprosie to discern;</l>
+               <l>Which was a plague, let us thereby</l>
+               <l>our cleansing herein learn.</l>
+            </lg>
+            <lg n="14">
+               <head>14</head>
+               <l>Then Sacrifice is made for them,</l>
+               <l>that herein cleansed be;</l>
+               <l>And signes are given for to know</l>
+               <l>the plague of Leprosie.</l>
+            </lg>
+            <lg n="15">
+               <head>15</head>
+               <l>The unclean Issues of both Sexts</l>
+               <l>that Men and Women be,</l>
+               <l>Is here made known, likewise how they</l>
+               <l>from them shall be set free.</l>
+            </lg>
+            <lg n="16">
+               <head>16</head>
+               <l>How the High-Priests must enter in</l>
+               <l>the holy Place for sin,</l>
+               <l>For to atone the yearly feast,</l>
+               <l>and scape Goats must come in.</l>
+            </lg>
+            <lg n="17">
+               <head>17</head>
+               <l>The blood of Beasts for Sacrifice,</l>
+               <l>at Tabernacles gate,</l>
+               <l>It must be sprinkled by the Priests,</l>
+               <l>and no man must blood eate.</l>
+            </lg>
+            <lg n="18">
+               <pb n="25" facs="tcp:207513:16"/>
+               <head>18</head>
+               <l>And then for Marriage there's a Law,</l>
+               <l>by Gods command brought in;</l>
+               <l>That none should lust, nor yet approach</l>
+               <l>to any neer of kin.</l>
+            </lg>
+            <lg n="19">
+               <head>19</head>
+               <l>There is many Laws repeated here</l>
+               <l>Which <hi>Moses</hi> did record,</l>
+               <l>How <hi>Israel</hi> should walk here, in</l>
+               <l>Obedience to the Lord:</l>
+            </lg>
+            <lg n="20">
+               <head>20</head>
+               <l>False Gods and Wiszards <hi>Israell</hi> must</l>
+               <l>in any wise refuse:</l>
+               <l>And with uncleanesse in no wise</l>
+               <l>themselves they must abuse.</l>
+            </lg>
+            <lg n="21">
+               <head>21</head>
+               <l>The Priests must mourn in holinesse,</l>
+               <l>and cleanesse in their carriage,</l>
+               <l>And not be men of Blemisses,</l>
+               <l>but careful in their Marriage.</l>
+            </lg>
+            <lg n="22">
+               <head>22</head>
+               <l>And as the Priests they must be clean,</l>
+               <l>so all Sacrifices</l>
+               <l>That offered were, must be without</l>
+               <l>any known blemishes.</l>
+            </lg>
+            <lg n="23">
+               <head>23</head>
+               <l>Gods holy Feasts are here proclaim'd,</l>
+               <l>that <hi>Israel</hi> must adore:</l>
+               <l>And all the gleanings of the Fields</l>
+               <l>are given to the poor.</l>
+            </lg>
+            <lg n="24">
+               <pb n="26" facs="tcp:207513:17"/>
+               <head>24</head>
+               <l>Their Lamps and shew bread in Worship,</l>
+               <l>with severall Laws are given:</l>
+               <l>And all such persons suffer must,</l>
+               <l>as blaspheme God of Heaven.</l>
+            </lg>
+            <lg n="25">
+               <head>25</head>
+               <l>The Sabbath of the seventh year</l>
+               <l>seventimes seven ore,</l>
+               <l>A <hi>Jubile</hi> of Redemption is,</l>
+               <l>and freedom for the Poor.</l>
+            </lg>
+            <lg n="26">
+               <head>26</head>
+               <l>A blessing is pronounc'd to them</l>
+               <l>that keep Gods Command'ments:</l>
+               <l>The breakers of them cursed are,</l>
+               <l>good's promis't Penitents.</l>
+            </lg>
+            <lg n="27">
+               <head>27</head>
+               <l>Nothing devoted is redeem'd,</l>
+               <l>Tiths must not changed be:</l>
+               <l>In <hi>Sinais</hi> Mount, God <hi>Moses</hi> tells</l>
+               <l>his Laws and Soveraigntie.</l>
+            </lg>
+         </div>
+         <div n="4" type="book">
+            <pb n="27" facs="tcp:207513:17"/>
+            <head>THE CONTENTS Of the History of the Fourth Book of MOSES: Called NUMBERS.</head>
+            <lg n="1">
+               <head>1</head>
+               <l>THe People here, they Numbred were,</l>
+               <l>according to command.</l>
+               <l>Except <hi>Levie,</hi> he must be free,</l>
+               <l>encamping with the band.</l>
+            </lg>
+            <lg n="2">
+               <head>2</head>
+               <l>The Tribes Order, in each border,</l>
+               <l>were set in their degree,</l>
+               <l>And made compleat, each Number great</l>
+               <l>Save <hi>Levies</hi> Tribe we see.</l>
+            </lg>
+            <lg n="3">
+               <head>3</head>
+               <l>
+                  <hi>Levits</hi> we see, they stand and be</l>
+               <l>in stead of the First-born;</l>
+               <l>From a Moneth old, their Males are told,</l>
+               <l>the strength of <hi>Jacobs</hi> horn.</l>
+            </lg>
+            <lg n="4">
+               <pb n="28" facs="tcp:207513:18"/>
+               <head>4</head>
+               <l>Of the <hi>Levits,</hi> and <hi>Koathites</hi>
+               </l>
+               <l>their age and carriage here,</l>
+               <l>With Priests Office, and Services</l>
+               <l>is made for to appear.</l>
+            </lg>
+            <lg n="5">
+               <head>5</head>
+               <l>For uncleanesse, and Trespasses</l>
+               <l>a stablish't rule we see:</l>
+               <l>Likewise you shall, the Laws Tryall,</l>
+               <l>behold for jalousie.</l>
+            </lg>
+            <lg n="9">
+               <head>9</head>
+               <l>The Law that fits, the <hi>Nazarits,</hi>
+               </l>
+               <l>is here plainly recorded:</l>
+               <l>Form'd in each thing, the Priests offring</l>
+               <l>is by command aforded.</l>
+            </lg>
+            <lg n="7">
+               <head>7</head>
+               <l>The next great thing, is Prince offring,</l>
+               <l>at Tabernacle great,</l>
+               <l>And Altar fine, duties Divine</l>
+               <l>for them to dedicate.</l>
+            </lg>
+            <lg n="8">
+               <head>8</head>
+               <l>From twenty five, the <hi>Levits</hi> thrive,</l>
+               <l>and consecrated be;</l>
+               <l>Till fifty years, as here appears,</l>
+               <l>and then they cease we see.</l>
+            </lg>
+            <lg n="9">
+               <head>9</head>
+               <l>I'th Wildernesse, though in distresse</l>
+               <l>the Passover they eat;</l>
+               <l>God then in love, makes them to move</l>
+               <l>the Clou'd presents the gate.</l>
+            </lg>
+            <lg n="10">
+               <pb n="29" facs="tcp:207513:18"/>
+               <head>10</head>
+               <l>When Trumpets blow, <hi>Isr'ell</hi> must know</l>
+               <l>by that sound what to do;</l>
+               <l>Their march compleat, in orders set,</l>
+               <l>each Tribe's appointed so.</l>
+            </lg>
+            <lg n="11">
+               <head>11</head>
+               <l>The multitude was very rude,</l>
+               <l>and <hi>Angels</hi> food refused:</l>
+               <l>Through judgment great, much flesh they eat</l>
+               <l>untill they were abused.</l>
+            </lg>
+            <lg n="12">
+               <head>12</head>
+               <l>
+                  <hi>Miriam</hi> she, with Leprosie</l>
+               <l>is smiten as you see;</l>
+               <l>And <hi>Aaron</hi> he, must not be free,</l>
+               <l>untill he humbled be.</l>
+            </lg>
+            <lg n="13">
+               <head>13</head>
+               <l>The Spyes are sent, with good intent,</l>
+               <l>into the faithfull Land:</l>
+               <l>But slavish fear, did so appear,</l>
+               <l>the People murmuring stand.</l>
+            </lg>
+            <lg n="14">
+               <head>14</head>
+               <l>Two of the Spyes, are strong and wise,</l>
+               <l>
+                  <hi>Caleb</hi> and <hi>Josua</hi> they</l>
+               <l>Still faithfull rest, and so are blest</l>
+               <l>when others disobey.</l>
+            </lg>
+            <lg n="15">
+               <head>15</head>
+               <l>Here offerings of severall things</l>
+               <l>of meats, and drinks are owned:</l>
+               <l>And he that seeks, to gather sticks</l>
+               <l>on the Sabbath is stoned.</l>
+            </lg>
+            <lg n="16">
+               <pb n="30" facs="tcp:207513:19"/>
+               <head>16</head>
+               <l>Rebellion, is here made known</l>
+               <l>of <hi>Korah</hi> and the rest,</l>
+               <l>The earth devowers, the plague ore powers</l>
+               <l>by Atonement it ceast.</l>
+            </lg>
+            <lg n="17">
+               <head>17</head>
+               <l>Amongst the rest, <hi>Aaron</hi> is best,</l>
+               <l>his Rod doth bud and florish,</l>
+               <l>That he may be, and help to free,</l>
+               <l>and <hi>Israell</hi> for to nourish.</l>
+            </lg>
+            <lg n="18">
+               <head>18</head>
+               <l>
+                  <hi>Levi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> his charge, is given at large</l>
+               <l>by Ceremoniall Writs;</l>
+               <l>There portion eke, God doth outspeak</l>
+               <l>of the Priests and <hi>Levits.</hi>
+               </l>
+            </lg>
+            <lg n="19">
+               <head>19</head>
+               <l>Here we do find, if we do mind,</l>
+               <l>water of Separation;</l>
+               <l>Which was doubtlesse, for uncleanesse,</l>
+               <l>and there Purification.</l>
+            </lg>
+            <lg n="20">
+               <head>20</head>
+               <l>The People in, Deserts of <hi>Zin,</hi>
+               </l>
+               <l>for water they did chide<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>:</l>
+               <l>Then <hi>Moses</hi> strock, the stonny rock</l>
+               <l>a River out did glide.</l>
+            </lg>
+            <lg n="21">
+               <head>21</head>
+               <l>Gainst <hi>Canaanits, Israel</hi> fights,</l>
+               <l>at <hi>Hormah</hi> they prevailed:</l>
+               <l>A <hi>Serpent</hi> was, then made of Brass,</l>
+               <l>that who look't at were healed.</l>
+            </lg>
+            <lg n="22">
+               <pb n="31" facs="tcp:207513:19"/>
+               <head>22</head>
+               <l>
+                  <hi>Og Bashans</hi> King, God down doth bring;</l>
+               <l>
+                  <hi>Balak</hi> for <hi>Balaam</hi> sends;</l>
+               <l>His Asse did spy, and speak and cry,</l>
+               <l>and shews where the <hi>Angell</hi> stands.<figure/>
+               </l>
+            </lg>
+            <lg n="23">
+               <head>23</head>
+               <l>The <hi>Angell</hi> he, then plain did see,</l>
+               <l>yet unto <hi>Balak</hi> came:</l>
+               <l>But he could not, hinder one jot,</l>
+               <l>nor Eclipss <hi>Israells</hi> fame.</l>
+            </lg>
+            <lg n="24">
+               <head>24</head>
+               <l>
+                  <hi>Balaam</hi> likewise, he Prophesies</l>
+               <l>of <hi>Israels</hi> happinesse;</l>
+               <l>He then speaks far, of <hi>Jacob's</hi> star.</l>
+               <l>and freedom from distresse.</l>
+            </lg>
+            <lg n="25">
+               <pb n="32" facs="tcp:207513:20"/>
+               <head>25</head>
+               <l>Then may we spy, the great folly</l>
+               <l>of Whoredome in the Tent;</l>
+               <l>That of <hi>Zimri,</hi> and of <hi>Cozbi,</hi>
+               </l>
+               <l>that <hi>Phinehas</hi> did prevent.</l>
+            </lg>
+            <lg n="26">
+               <head>26</head>
+               <l>In <hi>Moab</hi> plaines, by <hi>Jordan</hi> streams</l>
+               <l>the People numbred were:</l>
+               <l>Near <hi>Jericho,</hi> as they did go,</l>
+               <l>in sight of <hi>Canaan</hi> there.</l>
+            </lg>
+            <lg n="27">
+               <head>27</head>
+               <l>Who shall succeed, <hi>Moses</hi> indeed</l>
+               <l>as <hi>Israells</hi> Generall:</l>
+               <l>
+                  <hi>Josua</hi> he, the man must be;</l>
+               <l>
+                  <hi>Moses</hi> gives him the call.</l>
+            </lg>
+            <lg n="28">
+               <head>28</head>
+               <l>Then offerings here, they do appear,</l>
+               <l>with Sabbaths observation;</l>
+               <l>New Moons likewise, and sacrifice,</l>
+               <l>with holy Convocation.</l>
+            </lg>
+            <lg n="29">
+               <head>29</head>
+               <l>When Trumpets blow, the People know</l>
+               <l>their solemn Feasting dayes;</l>
+               <l>Whereof the charge, was very large,</l>
+               <l>in Ceremoniall wayes.</l>
+            </lg>
+            <lg n="30">
+               <head>30</head>
+               <l>The Law alows, that holy vows</l>
+               <l>performed sure shall be;</l>
+               <l>Who to the Lord doth so accord,</l>
+               <l>his vows perform must he.</l>
+            </lg>
+            <lg n="31">
+               <pb n="33" facs="tcp:207513:20"/>
+               <head>31</head>
+               <l>The <hi>Israelites,</hi> gainst <hi>Midianites</hi>
+               </l>
+               <l>engage, <hi>Balaam</hi> is slain,</l>
+               <l>The Souldiers they, divide the prey,</l>
+               <l>and cleansing must sustain.</l>
+            </lg>
+            <lg n="32">
+               <head>32</head>
+               <l>The <hi>Rubinites,</hi> and the <hi>Gadites,</hi>
+               </l>
+               <l>choose their inheritance</l>
+               <l>On this side, th' flood, yet think it good,</l>
+               <l>ore <hi>Jordan</hi> to advance.</l>
+            </lg>
+            <lg n="33">
+               <head>33</head>
+               <l>Now <hi>Israell,</hi> their great travell,</l>
+               <l>fourty two Journeys there;</l>
+               <l>In their distresse, I'th Wildernesse,</l>
+               <l>is here made to appear.</l>
+            </lg>
+            <lg n="34">
+               <head>34</head>
+               <l>
+                  <hi>Canaans</hi> Land, I understand</l>
+               <l>her Borders are made known;</l>
+               <l>Of each Tribe one, there was alone,</l>
+               <l>that each might have their own.</l>
+            </lg>
+            <lg n="35">
+               <head>35</head>
+               <l>Eight and fourty, is for <hi>Levie,</hi>
+               </l>
+               <l>of Cities set aside:</l>
+               <l>Of refuge six Cities are sixt,</l>
+               <l>for Manslayers in to 'bide.</l>
+            </lg>
+            <lg n="36">
+               <head>36</head>
+               <l>The Tribes must not, out of their Lot</l>
+               <l>with Heretikes marry;</l>
+               <l>Least that perchance, th'inheritance,</l>
+               <l>another Name should carry.</l>
+            </lg>
+         </div>
+         <div n="5" type="book">
+            <pb n="34" facs="tcp:207513:21"/>
+            <head>THE CONTENTS Of the History of the Fifth Book of MOSES: Called DEUTERONOMIE.</head>
+            <lg n="1">
+               <head>1</head>
+               <l>NOw <hi>Moses</hi> he, we plain may see,</l>
+               <l>being near to <hi>Jordan</hi> side;</l>
+               <l>A Repetition did begin,</l>
+               <l>Gods promise he applide.</l>
+            </lg>
+            <lg n="2">
+               <head>2</head>
+               <l>With <hi>Edomites,</hi> and <hi>Moabites</hi>
+               </l>
+               <l>
+                  <hi>Israell</hi> may not engage:</l>
+               <l>But <hi>Sihon Heshbons</hi> Land, must be</l>
+               <l>for an inheritage.</l>
+            </lg>
+            <lg n="3">
+               <head>3</head>
+               <l>
+                  <hi>Og Bashans</hi> King, they down did bring</l>
+               <l>that was a Gyant tall;</l>
+               <l>His Bed nine cupits was in length,</l>
+               <l>four cupits broad withall.</l>
+            </lg>
+            <lg n="4">
+               <head>4</head>
+               <l>Now <hi>Moses</hi> he, might <hi>Canaan</hi> see,</l>
+               <l>one <hi>Pisgahs</hi> Mountain great;</l>
+               <l>Yet must not pass ore <hi>Jordan</hi> stream's,</l>
+               <l>his humour to compleat.</l>
+            </lg>
+            <lg n="5">
+               <pb n="35" facs="tcp:207513:21"/>
+               <head>5</head>
+               <l>Obedience, is taught from hence,</l>
+               <l>the Law is here repeated:</l>
+               <l>The People promise to conform;</l>
+               <l>its wisht it were compleated.</l>
+            </lg>
+            <lg n="6">
+               <head>6</head>
+               <l>Here <hi>Moses</hi> saw, what by the Law</l>
+               <l>is Morally commanded,</l>
+               <l>Must be obey'd, unto the end</l>
+               <l>for which it was intended.</l>
+            </lg>
+            <lg n="7">
+               <head>7</head>
+               <l>Let all men fly, Idolatry,</l>
+               <l>and carefull be in Marriage,</l>
+               <l>That they do not dishonor God,</l>
+               <l>nor Religion disparage.</l>
+            </lg>
+            <lg n="8">
+               <head>8</head>
+               <l>God hath done well, to <hi>Israell,</hi>
+               </l>
+               <l>do not therefore forget:</l>
+               <l>
+                  <hi>Jehovah</hi>'s goodnesse which he hath</l>
+               <l>In <hi>Jacob</hi> shew'd compleat.</l>
+            </lg>
+            <lg n="9">
+               <head>9</head>
+               <l>
+                  <hi>Isr'ells</hi> alone, rebellion</l>
+               <l>is in this place repeated:</l>
+               <l>Their Worshiping the molten Calf,</l>
+               <l>which they as God conceated.</l>
+            </lg>
+            <lg n="10">
+               <head>10</head>
+               <l>
+                  <hi>Moses</hi> did pray, God turns away</l>
+               <l>his wrath, and then did hark;</l>
+               <l>And gave himself, for to renew</l>
+               <l>his Commandments i'th Ark.</l>
+            </lg>
+            <lg n="11">
+               <pb n="36" facs="tcp:207513:22"/>
+               <head>11</head>
+               <l>Obedience, by exper'ence</l>
+               <l>
+                  <hi>Israel</hi>'s advis'd unto;</l>
+               <l>Gods promises, and threatings</l>
+               <l>is here made known also.</l>
+            </lg>
+            <lg n="12">
+               <head>12</head>
+               <l>Idolatry, all men must fly,</l>
+               <l>and worship God most great:</l>
+               <l>In holy places of worship,</l>
+               <l>they holy things must eat.</l>
+            </lg>
+            <lg n="13">
+               <head>13</head>
+               <l>They must be nice, none must entice</l>
+               <l>them to Idolatry;</l>
+               <l>Though of their kin, yet they must be</l>
+               <l>stoned untill they die.</l>
+            </lg>
+            <lg n="14">
+               <head>14</head>
+               <l>What was for meat, for them to eat</l>
+               <l>was by the Law recorded,</l>
+               <l>Of flesh, and fish, and flying things,</l>
+               <l>and <hi>Levits,</hi> Tith's aforded.</l>
+            </lg>
+            <lg n="15">
+               <head>15</head>
+               <l>They must in peace, give a release</l>
+               <l>every seventh year,</l>
+               <l>Unto their Brethren that were bound,</l>
+               <l>that free they might appear.</l>
+            </lg>
+            <lg n="16">
+               <head>16</head>
+               <l>They must not swerve, but must observe</l>
+               <l>their holy Feasting dayes,</l>
+               <l>Of Passover, and seven weeks,</l>
+               <l>and Tabernacles phraise.</l>
+            </lg>
+            <lg n="17">
+               <pb n="37" facs="tcp:207513:22"/>
+               <head>17</head>
+               <l>Hard Matters great, for to compleat,</l>
+               <l>Judges and Priests must end,</l>
+               <l>In Holy place of Justice steat,</l>
+               <l>as the Law doth extend.</l>
+            </lg>
+            <lg n="18">
+               <head>18</head>
+               <l>A portion, is shew'd alone,</l>
+               <l>For Priests, and <hi>Levits</hi> there:</l>
+               <l>And false Prophets must have there doome</l>
+               <l>Till <hi>Shilo</hi> doth appear.</l>
+            </lg>
+            <lg n="19">
+               <head>19</head>
+               <l>Cities must be, of refuge three,</l>
+               <l>Priviledg'd in the Land:</l>
+               <l>And witnesses two at the least,</l>
+               <l>to prove a cause in hand.</l>
+            </lg>
+            <lg n="20">
+               <head>20</head>
+               <l>Likewise in War, we see how far</l>
+               <l>the Law doth here proceed;</l>
+               <l>And in a Siege men must preserve,</l>
+               <l>Fruit-trees whereon they feed.</l>
+            </lg>
+            <lg n="21">
+               <head>21</head>
+               <l>The First-born he, must not we see</l>
+               <l>be disinherited:</l>
+               <l>Through fond affection, but he that</l>
+               <l>sins must be punished.</l>
+            </lg>
+            <lg n="22">
+               <head>22</head>
+               <l>Several things, <hi>Moses</hi> here brings</l>
+               <l>of manners, and apparell;</l>
+               <l>Of slanders, rape, and of incest,</l>
+               <l>of Murther, and of quarrell.</l>
+            </lg>
+            <lg n="23">
+               <pb n="38" facs="tcp:207513:23"/>
+               <head>23</head>
+               <l>Here who is fit, for to admit,</l>
+               <l>into the Assembly</l>
+               <l>Is plain recorded; and a Law</l>
+               <l>against false usury.</l>
+            </lg>
+            <lg n="24">
+               <head>24</head>
+               <l>
+                  <hi>Moses</hi> doth tell, to <hi>Israell</hi>
+               </l>
+               <l>The Ceremoniall Law;</l>
+               <l>What is commanded them to do,</l>
+               <l>That they may stand in awe.</l>
+            </lg>
+            <lg n="25">
+               <head>25</head>
+               <l>Stripe must not be, above fourty</l>
+               <l>unto offenders used.</l>
+               <l>Nor <hi>Ameleck,</hi> is not forgot,</l>
+               <l>that <hi>Israell</hi> once abused.</l>
+            </lg>
+            <lg n="26">
+               <head>26</head>
+               <l>The offering, is the next thing,</l>
+               <l>of the first fruits that be;</l>
+               <l>And then Gods Covenant is made known</l>
+               <l>to them in unitie.</l>
+            </lg>
+            <lg n="27">
+               <head>27</head>
+               <l>Here <hi>Isr'ells</hi> tride, the Tribes divide</l>
+               <l>as Gods command them forces;</l>
+               <l>On <hi>Gerizin</hi> the blessers are,</l>
+               <l>Mount <hi>Eball</hi> shewes the curses.</l>
+            </lg>
+            <lg n="28">
+               <head>28</head>
+               <l>Blessing we see, for them that be</l>
+               <l>just and obedient;</l>
+               <l>And curses here, pronounced are</l>
+               <l>to all impenitent.</l>
+            </lg>
+            <lg n="29">
+               <pb n="39" facs="tcp:207513:23"/>
+               <head>29</head>
+               <l>
+                  <hi>Moses</hi> applies, former mercies</l>
+               <l>Which <hi>Israell</hi> had in want,</l>
+               <l>To move them to obedience,</l>
+               <l>and joyn in Covenant.</l>
+            </lg>
+            <lg n="30">
+               <head>30</head>
+               <l>Great mercies we, in promise see</l>
+               <l>for every penitent;</l>
+               <l>And life and death was set to choose,</l>
+               <l>that all might death prevent.</l>
+            </lg>
+            <lg n="31">
+               <head>31</head>
+               <l>The Law indeed, was set to read,</l>
+               <l>every seventh year:</l>
+               <l>And here Gods charge to <hi>Joshua,</hi>
+               </l>
+               <l>was made for to appear.</l>
+            </lg>
+            <lg n="32">
+               <head>32</head>
+               <l>Here <hi>Jes'runs</hi> King, doth praises sing,</l>
+               <l>being ready now to go,</l>
+               <l>To see the Borders of <hi>Canaan,</hi>
+               </l>
+               <l>and dye one Mount <hi>Nebo.</hi>
+               </l>
+            </lg>
+            <lg n="33">
+               <head>33</head>
+               <l>Gods Majesty, here plain doth lye,</l>
+               <l>
+                  <hi>Moses</hi> the Tribes doth tell;</l>
+               <l>And in their Order, doth them bless:</l>
+               <l>Oh happy <hi>Israell!</hi>
+               </l>
+            </lg>
+            <lg n="34">
+               <head>34</head>
+               <l>
+                  <hi>Moses</hi> appears, ag'd sixscore years,</l>
+               <l>on <hi>Nebo</hi>'s Mount indeed;</l>
+               <l>And there in secret yields to death,</l>
+               <l>and <hi>Joshua</hi> did succeed.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <pb n="40" facs="tcp:207513:24"/>
+            <head>A CONSIDERING-GLASS OF CONTEMPLATION, OR Spirituall Poem upon the Consideration of Persons, qualified with divers graces: Paralleled with the want of them in our dayes, further added.</head>
+            <lg>
+               <l>WHen Man at first created was,</l>
+               <l>He was in <hi>Eden</hi> sett:</l>
+               <l>After Gods Image he was made,</l>
+               <l>Man perfect and compleat.</l>
+            </lg>
+            <lg>
+               <l>But oh how soon did Man transgress</l>
+               <l>His Makers great command:</l>
+               <l>And did Rebell even at the first,</l>
+               <l>he could not thereby stand.</l>
+            </lg>
+            <lg>
+               <l>From <hi>Adam</hi>'s Loyns we all did spring,</l>
+               <l>And of that stock are spriggs,</l>
+               <l>Rebellious sons, Transgressors great,</l>
+               <l>Of that wild Olive twiggs.</l>
+            </lg>
+            <lg>
+               <pb n="41" facs="tcp:207513:24"/>
+               <l>How few like <hi>Abell,</hi> have we that</l>
+               <l>with God by Prayer obtain?</l>
+               <l>But Oh how many sins have we?</l>
+               <l>goodnesse, <hi>Cain</hi>-like hath slain.</l>
+            </lg>
+            <lg>
+               <l>Few now like <hi>Enoch</hi> walk with God,</l>
+               <l>Who was from hence translated:</l>
+               <l>But many like the Old Worlds Sons,</l>
+               <l>With wicked sins are mated.</l>
+            </lg>
+            <lg>
+               <l>Few <hi>Noahs</hi> we have in these our dayes,</l>
+               <l>for to preach Righteousness:</l>
+               <l>But many now from God revolt,</l>
+               <l>and turn to Foolishnesse.</l>
+            </lg>
+            <lg>
+               <l>Few <hi>Sems</hi> and <hi>Japhets</hi> have we now,</l>
+               <l>there Fathers shame to cover:</l>
+               <l>But many <hi>Ham</hi>'s are in these dayes,</l>
+               <l>Whose sins God will consider.</l>
+            </lg>
+            <lg>
+               <l>Oh whose a faithfull Father now,</l>
+               <l>that doth from <hi>Abraham</hi> spring,</l>
+               <l>Who's faith was prov'd by tryall great,</l>
+               <l>in his great offering.</l>
+            </lg>
+            <lg>
+               <l>Or who like <hi>Loth</hi> out of <hi>Sodom,</hi>
+               </l>
+               <l>shall have protection:</l>
+               <l>But many like unto <hi>Loths</hi> wife</l>
+               <l>Look to destruction.</l>
+            </lg>
+            <lg>
+               <pb n="42" facs="tcp:207513:25"/>
+               <l>Oh who's a faithfull Mother now,</l>
+               <l>And Wife that doth accord:</l>
+               <l>
+                  <hi>Sarah</hi> like in obedience,</l>
+               <l>Calling her Husband Lord.</l>
+            </lg>
+            <lg>
+               <l>Or who like <hi>Isaak</hi> meditates,</l>
+               <l>On Naturall Mineralls;</l>
+               <l>But some to keep bad Company,</l>
+               <l>are subject to their calls.</l>
+            </lg>
+            <lg>
+               <l>Oh who like <hi>Jacob</hi> seeketh now</l>
+               <l>the blessing of the Up-right:</l>
+               <l>But many <hi>Esau</hi> like, make rack</l>
+               <l>And sale of their Birth-right.</l>
+            </lg>
+            <lg>
+               <l>Oh who like <hi>Joseph's</hi> fear'd of sin,</l>
+               <l>When tempted to accord:</l>
+               <l>And say, how shall I do this thing,</l>
+               <l>And sin against the Lord.</l>
+            </lg>
+            <lg>
+               <l>But oh how many do we see</l>
+               <l>in wickednesse increase;</l>
+               <l>Committing sin, and count it sport,</l>
+               <l>to talke of uncleanesse.</l>
+            </lg>
+            <lg>
+               <l>Or who like <hi>Moses,</hi> now is meek</l>
+               <l>Gods glory to advance;</l>
+               <l>To stand up for <hi>Jehovahs</hi> name,</l>
+               <l>and Saints deliverance.</l>
+            </lg>
+            <lg>
+               <pb n="43" facs="tcp:207513:25"/>
+               <l>Oh who like <hi>Phinehas</hi> now doth stand</l>
+               <l>Justice to execute,</l>
+               <l>While wickednesse doth so abound,</l>
+               <l>there's few will it confute.</l>
+            </lg>
+            <lg>
+               <l>How few good <hi>Calebs</hi> have we now</l>
+               <l>that wholly follow God;</l>
+               <l>But manny murmurers we have</l>
+               <l>that never heed his Rod.</l>
+            </lg>
+            <lg>
+               <l>Or who like <hi>Joshua</hi> courage takes,</l>
+               <l>
+                  <hi>Israell</hi> to lead, and bring</l>
+               <l>Trough <hi>Jordan</hi> streames, into the Land</l>
+               <l>of Spirituall being.</l>
+            </lg>
+            <lg>
+               <l>Now in this day of <hi>Jacobs</hi> fears,</l>
+               <l>good Lord Some <hi>Moses</hi> send,</l>
+               <l>That may hold up his hands to thee,</l>
+               <l>whilest <hi>Israel</hi> doth contend.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:207513:26"/>
+            <head>Courteous Reader, these Books following are sold by <hi>Tho. Passenger</hi> at the three Bibles on <hi>Lon<g ref="char:EOLhyphen"/>don-Bridge.</hi>
+            </head>
+            <list>
+               <item>THe Christians Combate: Or, his true Spi<g ref="char:EOLhyphen"/>ritual Warfare. By <hi>C. Love,</hi> late Minister of Gods Word in the City of <hi>London.</hi>
+               </item>
+               <item>The Sinners Warning-piece: Or, Heavens Messenger. By <hi>Tho. Robins</hi> B. of D.</item>
+               <item>Mans Chief Guide to Salvation. By <hi>T. R.</hi> B. of D.</item>
+               <item>The Scholars Winter Garment: Or, The Garment of Righteousness. By <hi>T. R.</hi>
+               </item>
+               <item>A Wonder of Wonders: Or, Gods People the Worlds Wonder. By <hi>R. Hough.</hi>
+               </item>
+               <item>The School of Learning: Being Prayers for Morning and Evening for every day in the Week; with Graces before and after Meat, and a short Catechism for Children.</item>
+               <item>The Vertuous Wife is the Glory of her Hus<g ref="char:EOLhyphen"/>band: Being a new Book, shewing the rare qualities of the truly vertuous Woman.</item>
+               <item>Now or Never: work out your Salvation with fear and trembling, &amp;c.</item>
+               <item>Gods Call to Unconverted Sinners.</item>
+               <item>The School of Patience.</item>
+               <item>The Door of Salvation Opened.</item>
+               <item>Safe way to Saving Knowledge.</item>
+               <item>Gods hatred against sin. By <hi>R. Hough.</hi>
+               </item>
+               <item>Christians Conquest.</item>
+               <item>Gospel Certainty.</item>
+            </list>
+            <pb facs="tcp:207513:26"/>
+         </div>
+      </back>
+   </text>
+</TEI>
